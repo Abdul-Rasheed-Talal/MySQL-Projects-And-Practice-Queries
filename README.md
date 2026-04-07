@@ -1,0 +1,1 @@
+# This repository contains all mysql practise queries and projects
