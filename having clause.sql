@@ -1,0 +1,1 @@
+select name , avg(salary) from users group by name having avg(salary)>10000 

@@ -1,0 +1,1 @@
+rename table tru to test_truncate_command;

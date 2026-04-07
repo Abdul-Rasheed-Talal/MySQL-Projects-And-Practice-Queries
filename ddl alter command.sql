@@ -1,0 +1,1 @@
+ALTER table test ADD COLUMN new_column varchar(50);

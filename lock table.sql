@@ -1,0 +1,1 @@
+lock table fee  lock_mode read;

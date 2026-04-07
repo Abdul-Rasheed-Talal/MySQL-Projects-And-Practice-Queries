@@ -1,0 +1,1 @@
+select name from students s where exists ( select 1 from courses c where s.student_id=c.student_id );

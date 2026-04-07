@@ -1,0 +1,1 @@
+select name , gender from users

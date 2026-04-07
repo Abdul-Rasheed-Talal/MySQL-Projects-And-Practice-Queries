@@ -1,0 +1,1 @@
+select salary from users where salary > ANY ( select amount from fee);

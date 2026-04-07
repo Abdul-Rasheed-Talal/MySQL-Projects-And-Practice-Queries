@@ -1,0 +1,1 @@
+CALL GetTotalSal(1001);

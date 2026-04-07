@@ -1,0 +1,1 @@
+select * from students where age > 20 and department="computer science";

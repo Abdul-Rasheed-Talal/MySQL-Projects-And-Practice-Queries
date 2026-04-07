@@ -1,0 +1,1 @@
+create table test (table_id int , table_data varchar(50));

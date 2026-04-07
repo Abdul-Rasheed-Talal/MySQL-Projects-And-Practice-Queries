@@ -1,0 +1,1 @@
+select * from students where department ="computer science" or department="math";

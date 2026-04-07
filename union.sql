@@ -1,0 +1,1 @@
+select name from users union select name from student

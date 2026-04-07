@@ -1,0 +1,8 @@
+id_card.jpg
+id_card_backside.jpg
+*id_card.jpg
+*id_card_backside.jpg
+id_card*
+id_card_backside*
+/id_card*
+/id_card_backside*
